@@ -1,11 +1,12 @@
 {
-  "name": "tarzain_webpack_demo",
-  "version": "2.0.0",
+  "name": "@local_registry/tarzain_comp_2",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "dependencies": {
     "jquery": "^3.2.1",
-    "webpack": "^3.4.1"
+    "webpack": "^3.4.1",
+    "@local_registry/tarzain_comp_1": "1.0.0"
   },
   "devDependencies": {
     "css-loader": "^0.28.4",

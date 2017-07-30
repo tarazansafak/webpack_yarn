@@ -1,0 +1,2 @@
+-> yarn uses .npmignore and .npmrc to get get configs: no need to add .yarnrc
+-> use npm scoped registeries
