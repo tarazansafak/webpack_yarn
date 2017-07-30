@@ -1,6 +1,6 @@
 {
   "name": "@local_registry/tarzain_comp_2",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "",
   "main": "index.js",
   "dependencies": {
