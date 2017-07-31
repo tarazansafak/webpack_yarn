@@ -1,2 +1,3 @@
 -> yarn uses .npmignore and .npmrc to get get configs: no need to add .yarnrc
 -> use npm scoped registries to be able to use local and remote cached repo via artifactory
+-> check Node-semver: https://github.com/npm/node-semver
